@@ -2,7 +2,8 @@
 vagrant image to test btsync folders
 
 usage,
-after booting your server, run install btsync as root or sudo
+after booting your server, run install_btsync.sh as root or sudo
+
 to launch
 ```
 export SYNC_DIR="/path/to/folder"
